@@ -16,11 +16,17 @@ This project demonstrates data manipulation and analysis using Python. It simula
 **The code follows these steps:**
 
 Create a list of unique city names 🌆
+
 Produce a list of cities, allowing duplicates 🔄
+
 Assign random sales data to each city 💰
+
 Aggregate sales data for each city ➕
+
 Sort the aggregated sales data in descending order ⬇
+
 Output the final results 📤
+
 # Step-by-Step Explanation 🚶
 
 **1. Creating a List of Unique Cities:**

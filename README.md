@@ -2,11 +2,17 @@
 This project demonstrates data manipulation and analysis using Python. It simulates city-wise sales data and provides insights into sales performance.
 
 # Key Concepts 🗝️
+
 **List:** A fundamental data structure that stores multiple items. 📝
+
 **Random:** Introducing randomness using the random module. 🎲
+
 **Data Aggregation:** Combining data from various sources into a single summary. 📊
+
 **Sorting:** Arranging data in a specified order (descending in this case). 📉
+
 # Code Structure 🏗️
+
 **The code follows these steps:**
 
 Create a list of unique city names 🌆
